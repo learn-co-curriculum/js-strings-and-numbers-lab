@@ -1,5 +1,5 @@
 
-Let's get some practice modifying the DOM and working with our strings and numbers. Below, you're are going to see the continuation of our profile page from the previous lab. You'll notice, we are starting to build out worlds simplest version of your facebook profile. As the future brilliant founder of a new social network, you need to implement the functionality for when someone gets a new friend, and when they change their current employer. I know that this is a _very_ simplistic version, but somewhere in the code for Facebook, Twitter, Pinterest and all of the other social networks is exactly code you are about to write. Only a few lessons in and you're on your way!
+Let's get some practice modifying the DOM and working with our strings and numbers. Below, you are going to see the continuation of our profile page from the previous lab. You'll notice, we are starting to build out worlds simplest version of your facebook profile. As the future brilliant founder of a new social network, you need to implement the functionality for when someone gets a new friend, and when they change their current employer. I know that this is a _very_ simplistic version, but somewhere in the code for Facebook, Twitter, Pinterest and all of the other social networks is exactly code you are about to write. Only a few lessons in and you're on your way!
 
 <iframe height='551' scrolling='no' title='Modifying The Dom' src='//codepen.io/joemburgess/embed/OpdGKE/?height=551&theme-id=0&default-tab=html,result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joemburgess/pen/OpdGKE/'>Modifying The Dom</a> by Joe Burgess (<a href='http://codepen.io/joemburgess'>@joemburgess</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -55,3 +55,5 @@ var employer = document.querySelector("#employer")
 
 employer.innerHTML = employer.innerHTML + "<br>IBM"
 ```
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-strings-and-numbers-lab'>Strings And Numbers Lab</a> on Learn.co and start learning to code for free.</p>
